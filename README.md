@@ -15,7 +15,7 @@ To begin installation begin by installing project dependencies:
 npm install
 ```
 
-After project dependencies are installed provide the project a .env file.
+After project dependencies are installed provide the project an .env file.
 You will need to supply this .env file with the appropriate variables:
 
 ```
