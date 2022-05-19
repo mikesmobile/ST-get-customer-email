@@ -9,7 +9,7 @@ const { abort } = require('process');
 
 const { TOKEN_URL, TENANT, ST_ID, ST_SECRET, ST_KEY, ST_CUSTOMERS } = process.env;
 
-const fetchEmails = (async () => {
+(async () => {
     let rows= [];
 
     // read from input csv
